@@ -45,8 +45,7 @@
   - Contains data on production budgets and worldwide gross.
 
 ## Tools & Libraries
-
-```python
+### python
 import pandas as pd
 import gzip
 import numpy as np
