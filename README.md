@@ -97,6 +97,8 @@
 - Filtered data to top 10 genres for focused analysis
 
 ### Visualizations:
+- Box plot of Average ratings by Genre
+  ![image](https://github.com/user-attachments/assets/13fcb1af-dd55-474e-89a7-9508307dc9fe)
 
 - Bar plots of average rating by director (top 10 genres)
 
