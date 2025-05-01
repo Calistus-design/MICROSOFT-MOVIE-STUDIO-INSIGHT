@@ -147,3 +147,27 @@ This analysis provides valuable insights into movie success factors, helping Mic
 # Summary-:
 ## Interactive Dashboard "Tableau- Find below link"
 https://public.tableau.com/app/profile/brian.arthur1141/viz/Microsoft_17460939619780/Dashboard1?publish=yes
+
+## For More Information
+
+Please review our full analysis in [our Jupyter Notebook](./student.ipynb) or our [presentation](./presentation.pdf).
+
+For any additional questions, please contact:
+
+- **Calistus Mwonga**, calistusmwonga@gmail.com  
+- **Samwel Kipkemboi**, samkemboi201@gmail.com  
+- **Brian Kanyenje**, bkanyenje@gmail.com  
+- **Hannah Nyambura**, anngachuhipg1@gmail.com  
+- **Kelvin Mutua**, kelvinmutua787@gmail.com  
+
+## Repository Structure
+
+```
+├── zippedData                       
+├── .gitignore                          
+├── github.pdf   
+├── presentation.pdf         
+├──README.md 
+├── student.ipynb                               
+└── student.pdf                           
+```
