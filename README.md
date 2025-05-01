@@ -46,14 +46,14 @@
 
 ## Tools & Libraries
 ### python
-import pandas as pd
-import gzip
-import numpy as np
-import sqlite3
-import matplotlib.pyplot as plt
-%matplotlib inline
-import seaborn as sns
-import scipy.stats as stats
+`import pandas as pd`
+`import gzip`
+`import numpy as np`
+`import sqlite3`
+`import matplotlib.pyplot as plt`
+`%matplotlib inline`
+`import seaborn as sns`
+`import scipy.stats as stats`
 
 ## Data Preparation Steps
 - Loaded and merged IMDb and The Numbers datasets.
@@ -69,55 +69,62 @@ import scipy.stats as stats
 - Merged and cleaned all relevant tables for analysis.
 
 ## Exploratory Data Analysis (EDA)
-1.  Genre vs. Performance
+1. Genre vs. Performance
 ### Research Question:
 - Can average rating be used as an indicator of film performance?
 
 ### Hypotheses:
 
-H0: No significant difference exists between genres and average ratings.
+- H0: No significant difference exists between genres and average ratings.
 
-H1: A significant difference exists between genres and average ratings.
+- H1: A significant difference exists between genres and average ratings.
 
 ### Visualizations:
 
-Bar plot of average rating by genre
+- Bar plot of average rating by genre
 
-Bar plot of average worldwide gross by genre
+- Bar plot of average worldwide gross by genre
 
 ### ANOVA test to assess significance
 
- Director, Writer, and Actor Influence
+ **Director, Writer, and Actor Influence**
 ### Steps:
 
-Calculated number of movies each director has made (experience count)
+- Calculated number of movies each director has made (experience count)
 
-Mapped experience to names
+- Mapped experience to names
 
-Filtered data to top 10 genres for focused analysis
+- Filtered data to top 10 genres for focused analysis
 
 ### Visualizations:
 
-Bar plots of average rating by director (top 10 genres)
+- Bar plots of average rating by director (top 10 genres)
 
-Bar plots of average rating by actor (top 10 genres)
+- Bar plots of average rating by actor (top 10 genres)
 
 2. Budget vs. Movie Performance
 ### Hypotheses:
 
-H0: No association exists between production budget and worldwide revenue.
+- H0: No association exists between production budget and worldwide revenue.
 
-H1: A significant association exists between production budget and worldwide revenue.
+- H1: A significant association exists between production budget and worldwide revenue.
 
 ##3 Statistical Tests & Visuals:
 
-Pearson correlation between budget and gross
+- Pearson correlation between budget and gross
 
-Chi-squared test on binned budget/gross categories
+- Chi-squared test on binned budget/gross categories
 
-Heatmap showing the relationship between budget and gross
+- Heatmap showing the relationship between budget and gross
 
 ### Additional Visuals
-Distribution plots of production budgets and worldwide gross
+- Distribution plots of production budgets and worldwide gross
 
-Binned budget and gross categories with corresponding bar plots
+- Binned budget and gross categories with corresponding bar plots
+
+## Conclusion
+
+
+
+
+## Recommendations
