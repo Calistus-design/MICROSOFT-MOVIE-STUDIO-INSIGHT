@@ -105,6 +105,9 @@
 
 
 - Bar plots of average rating by actor (top 10 genres)
+![image](https://github.com/user-attachments/assets/6cafd797-f31b-4af7-9127-6d25f435b027)
+
+  
 
 - Heat map to visualize the association between production budget and worldwide gross categories
   ![image](https://github.com/user-attachments/assets/2493d452-b8a3-457a-be8f-b96c57485575)
@@ -126,11 +129,17 @@
 - Heatmap showing the relationship between budget and gross
 
 
-
 ### Additional Visuals
 - Distribution plots of production budgets and worldwide gross
 
 - Binned budget and gross categories with corresponding bar plots
+
+## Recommendations
+To maximize profitability, Microsoft Movie Studio should:  
+1. Prioritize investments in high-revenue genres (Animation, Adventure, Sci-Fi).
+2. Leverage high-rated genres (Short Films & Documentaries) to strengthen industry credibility.
+3. Collaborate with top directors and actors in these successful genres for higher audience engagement.
+4. Focus on higher-budget movies while being strategic in its allocation
 
 ## Conclusion
 This analysis provides valuable insights into movie success factors, helping Microsoft Movie Studio make data-driven decisions about film production
@@ -138,10 +147,3 @@ This analysis provides valuable insights into movie success factors, helping Mic
 # Summary-:
 ## Interactive Dashboard "Tableau- Find below link"
 https://public.tableau.com/app/profile/brian.arthur1141/viz/Microsoft_17460939619780/Dashboard1?publish=yes
-
-## Recommendations
-To maximize profitability, Microsoft Movie Studio should:  
-1. Prioritize investments in high-revenue genres (Animation, Adventure, Sci-Fi).
-2. Leverage high-rated genres (Short Films & Documentaries) to strengthen industry credibility.
-3. Collaborate with top directors and actors in these successful genres for higher audience engagement.
-4. Focus on higher-budget movies while being strategic in its allocation 
