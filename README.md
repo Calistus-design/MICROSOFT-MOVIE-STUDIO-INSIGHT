@@ -158,9 +158,9 @@ For any additional questions, please contact:
 ```
 ├── zippedData                       
 ├── .gitignore                          
-├── github.pdf   
-├── presentation.pdf         
-├──README.md 
+├── README.md  
+├── presentation.pdf
+├── presentation.pptx      
 ├── student.ipynb                               
 └── student.pdf                           
 ```
