@@ -100,20 +100,27 @@
 - **Box plot of Average ratings by Genre**
   ![image](https://github.com/user-attachments/assets/13fcb1af-dd55-474e-89a7-9508307dc9fe)
 
+
+
+  
 - **Bar plots of average rating by top directors per genre**
   ![image](https://github.com/user-attachments/assets/5639c5cd-87b1-4d87-9412-93b3a49e7661)
+
 
 
 
 - **Bar plots of average rating by top actors per genre**
 ![image](https://github.com/user-attachments/assets/550b9ebe-1d8b-4998-9040-12d6e91e545c)
 
-  
+
+
 
 - **Heat map to visualize the association between production budget and worldwide gross categories**
   ![image](https://github.com/user-attachments/assets/2493d452-b8a3-457a-be8f-b96c57485575)
 
 
+
+  
 **2. Budget vs. Movie Performance**
 ### Hypotheses:
 
