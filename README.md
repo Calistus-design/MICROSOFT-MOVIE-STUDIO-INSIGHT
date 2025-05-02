@@ -100,12 +100,13 @@
 - Box plot of Average ratings by Genre
   ![image](https://github.com/user-attachments/assets/13fcb1af-dd55-474e-89a7-9508307dc9fe)
 
-- Bar plots of average rating by directors (top 10 genres)
-  ![image](https://github.com/user-attachments/assets/019824e6-8aa4-4d6c-8cfc-dd1aae45c85e)
+- Bar plots of average rating by top directors per genre
+  ![image](https://github.com/user-attachments/assets/5639c5cd-87b1-4d87-9412-93b3a49e7661)
 
 
-- Bar plots of average rating by actor (top 10 genres)
-![image](https://github.com/user-attachments/assets/6cafd797-f31b-4af7-9127-6d25f435b027)
+
+- Bar plots of average rating by top actors per genre
+![image](https://github.com/user-attachments/assets/550b9ebe-1d8b-4998-9040-12d6e91e545c)
 
   
 
