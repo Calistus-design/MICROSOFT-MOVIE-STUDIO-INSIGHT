@@ -1,21 +1,4 @@
 # MICROSOFT MOVIE STUDIO INSIGHT
-# Table of Content
->* Title
->* Project Overview
->* Business Problem
->* Project Goal
->* Project Objectives
->* Imprted Libraries
->* Datasets 
-`1. im.db`
-`2. tn.movie_budgets.csv.gz`
->* Data Loading
->* Data Cleaning
->* Data Preparation
->* Data Analysis
->* Conclusion
->* Business Recommendations
-
 
 ## PROJECT OVERViEW
 - The aim of this project is to analyze which type of films are currently doing the best at the box office to help the company decide which type of films to create.
@@ -104,13 +87,15 @@
 
   
 - **Bar plots of average rating by top directors per genre**
-  ![image](https://github.com/user-attachments/assets/5639c5cd-87b1-4d87-9412-93b3a49e7661)
+  ![image](https://github.com/user-attachments/assets/016cb8f7-9b75-48c6-aaa5-5482e2985c2c)
+
 
 
 
 
 - **Bar plots of average rating by top actors per genre**
-![image](https://github.com/user-attachments/assets/550b9ebe-1d8b-4998-9040-12d6e91e545c)
+![image](https://github.com/user-attachments/assets/137c344d-afd9-42b2-a7a6-9a8b17513e38)
+
 
 
 
